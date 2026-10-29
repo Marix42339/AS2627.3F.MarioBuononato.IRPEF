@@ -5,6 +5,10 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("MarioBuononato.3F.29/10/26.a casa");
+        Console.WriteLine("l'utente mettendo il suo reddito lordo scopre a quanto corrisponde il suo reddito netto");
+        Console.WriteLine("scopre anche quant'è il guadagno per ogni scaglione");
+
         double redLordo,IRPEF;
         double scaglione1=0;
         double scaglione2=0;
