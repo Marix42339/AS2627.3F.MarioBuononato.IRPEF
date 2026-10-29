@@ -1,6 +1,5 @@
 ﻿namespace AS2627._3F.MarioBuononato.IRPEF;
 
-using System;
 class Program
 {
     static void Main(string[] args)
